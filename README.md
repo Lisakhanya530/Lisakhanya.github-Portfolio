@@ -54,7 +54,6 @@ Passionate about storytelling and creating intuitive, user-centered digital expe
 
 ---
 
-<video width="600"controls>
-<source src="Interview.mp4"
-type="video/mp4">
+<video width="600" controls>
+  <source src="Interview.mp4" type="video/mp4">
 </video>
