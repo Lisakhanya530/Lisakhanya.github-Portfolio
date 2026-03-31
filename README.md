@@ -54,4 +54,7 @@ Passionate about storytelling and creating intuitive, user-centered digital expe
 
 ---
 
-video interview link: https://1drv.ms/v/c/4ac8dbfc0179c867/IQCLLXaWldxURaLYzS9V7iZbAYiqI5VQIqDA66oHPJw_ewQ?e=egHpLF
+<video width="600"controls>
+<source src="Interview.mp4"
+type="video/mp4">
+</video>
