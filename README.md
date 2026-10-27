@@ -1,70 +1,29 @@
-# 👋 Hi, I'm Lisa Ndwandwa
+# Lisakhanya Ndwandwa Portfolio — GitHub-ready folder
 
-🎓 **Third-year ICT Student | Multimedia Specialist | UX/UI Enthusiast**  
-Passionate about storytelling and creating intuitive, user-centered digital experiences that balance design and functionality. Experienced in visual identity, digital design, full-stack development, and cloud computing.
+This folder contains the original single-file portfolio site, updated to keep the portfolio sections in one continuous scrollable page and to expand the LeafScan AI Agile taskboard and logbook.
 
----
+## What changed
+- Kept the existing portfolio content and visual design.
+- Made the Home, Profile, Evidence, Reflections and Agile sections visible as one continuous scrolling page.
+- Added a detailed Sprint 1 taskboard breakdown for LeafScan AI / Crop Doctor AI.
+- Added daily logbook entries using the Trello due dates shown in the portfolio: 15–18 September 2026.
+- Added `assets/leafscan-agile-logbook.docx`, linked from the website.
 
-## 📞 Contact Me
+## Important accuracy note
+The source material supplied the card due dates and checklist totals, but not verbatim daily stand-up minutes or every exact Trello checklist item. The logbook therefore labels the entries as reconstructed from the project information, and the expanded checklist descriptions are project-aligned summaries. Please verify them against your team's actual Trello/stand-up records before assessment submission. The notes also say the cards were added on 26 October 2026, after their September due dates; do not present due dates as proof that meetings happened on those dates.
 
-- **Phone:** +27 733 481 462  
-- **Email:** [231274963@mycput.ac.za](mailto:231274963@mycput.ac.za)  
-- **LinkedIn:** [linkedin.com/in/lisa-ndwandwa](https://www.linkedin.com/in/lisa-ndwandwa)  
-- **GitHub:** [github.com/Lisakhanya530](https://github.com/Lisakhanya530)
+## Missing images
+The original page references these assets, which were not supplied with the current files:
+- `assets/wombs-of-wisdom.png`
+- `assets/connect-ease.png`
+- `assets/flowers-by-irene.png`
+- `assets/trello-board.png`
+- `assets/agile-logbook.png`
 
----
+The portfolio text and Agile tables are visible without the missing screenshots, but add the image files if you want those specific image slots to appear.
 
-## 💻 Skills
-
-### **Technical Skills**
-- HTML, CSS, JavaScript  
-- Vue.js, Figma, Microsoft Azure  
-- Adobe Illustrator, Adobe InDesign  
-
-### **Soft Skills**
-- Leadership & Communication  
-- Teamwork & Collaboration  
-- Creative Problem Solving  
-
----
-
-## 🏆 Projects
-
-### **Connect Ease** – UX/UI & Mobile App Design | Academic Project
-- UX/UI design, interaction design, wireframing, prototyping, and usability testing  
-- Strong foundation in visual identity, digital design, and front-end development  
-
-### **Flowers By Irene Brand Guide**
-- Developed a comprehensive brand identity and guide for a luxury floral business based in Cape Town  
-- Included logo design variations, color palette selection, typography systems, brand personality definition, and detailed usage guidelines for print and digital platforms  
-
----
-
-## 🎓 Education
-
-- **Diploma in ICT in Multimedia** | Cape Peninsula University of Technology | 2024–Present  
-- **Curro Academy Riverside** | Gauteng | NQF Level 4, Matric | 2022  
-
----
-
-## 📇 References
-
-- **Megan Danielle Hamman** – +27 833 819 056 | [HAMMAN@mycput.ac.onmicrosoft.com](mailto:HAMMAN@mycput.ac.onmicrosoft.com)  
-- **Mr.Itumeleng Maine** – +27 605 817 615 | [Maine@mycput.ac.za](mailto:Maine@mycput.ac.za )
-
----
-
-<video width="600" controls>
-  <source src="Interview.mp4" type="video/mp4">
-</video>
-
-# Reflections
-
-## Reflection of CV (Markdown)
-Firstly, I learned a new language, which is Markdown. It was a bit challenging to use at first because I didn’t understand how it worked. However, after doing some research, I started to understand it better and was eventually able to use it correctly to write my CV. Although there were a few challenges along the way, I managed to overcome them and became more confident in using Markdown.
-
-## Reflection of the Mock Interview Video
-The first step was choosing the questions I was going to answer, which was difficult because many of them seemed challenging. I asked a friend to help me film the video, which made the process a bit easier. After learning about the STAR method, I initially struggled to structure my answers. Recording the video was also challenging because I kept making mistakes and forgetting what I wanted to say. However, with practice, I improved and was eventually able to record my video successfully.
-
-## Reflection of GitHub Portfolio/Pages
-This part was the most challenging for me because I was not familiar with using GitHub, and it was my first time working with it. I struggled to complete the tasks on my own and needed help from my friends. After they guided me, I began to understand how GitHub works and was able to create my GitHub Pages. Eventually, I became more confident and was even able to assist others. Overall, it was a valuable learning experience.
+## Publish with GitHub Pages
+1. Unzip the folder.
+2. Upload `index.html`, `README.md`, and the `assets` folder to the root of your GitHub repository.
+3. In repository **Settings → Pages**, choose deployment from the `main` branch and `/ (root)`.
+4. Open the published GitHub Pages URL and test the navigation, tables and Word document link.
